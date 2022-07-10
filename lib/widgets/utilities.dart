@@ -1,14 +1,8 @@
-import 'dart:io' show File;
-
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 
-import '../colors.dart';
-import '../main.dart';
+import '../constants_styles.dart';
 
 final messengerKey = GlobalKey<ScaffoldMessengerState>();
 

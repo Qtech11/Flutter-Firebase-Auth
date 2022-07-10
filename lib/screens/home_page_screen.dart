@@ -1,6 +1,6 @@
 import 'dart:io' show File;
 
-import 'package:auth_test/colors.dart';
+import '../constants_styles.dart';
 import 'package:auth_test/main.dart';
 import 'package:flutter/material.dart';
 import 'package:auth_test/widgets/custom_button.dart';

@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:auth_test/colors.dart';
+import '../constants_styles.dart';
 import 'package:auth_test/screens/home_page_screen.dart';
 import 'package:auth_test/widgets/custom_button.dart';
 import 'package:firebase_auth/firebase_auth.dart';

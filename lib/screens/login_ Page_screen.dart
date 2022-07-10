@@ -1,7 +1,5 @@
-import 'package:auth_test/colors.dart';
-import 'package:auth_test/widgets/utilities.dart';
+import '../constants_styles.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:auth_test/widgets/custom_button.dart';
 import 'package:auth_test/widgets/custom_text_field.dart';
 import 'package:auth_test/main.dart';
