@@ -5,4 +5,4 @@ It consist of a sign in and login page, where you can sign in/login with your em
 After which you would be redirected to an Homepage.
 It has a nice user interface with great User experience.
 
-![test](images/default_pic.jpeg)
+![s1](images/Screenshot_1656604627.png)

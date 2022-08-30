@@ -1,7 +1,6 @@
 import 'package:email_validator/email_validator.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-
 import '../constants_styles.dart';
 import '../main.dart';
 import '../widgets/custom_button.dart';
